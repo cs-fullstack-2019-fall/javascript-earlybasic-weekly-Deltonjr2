@@ -6,33 +6,69 @@ var  userInput q=true
 while (userInputq)
 
 while user!="q"
-userInputq= prompt ( you entered ++"userInput + press 'q' to quit or enter another number");
+
+userInputq= prompt ( you entered "userInput press 'q' to quit or enter another letter");
 { 
-alert ("you pressed 'q'");
+alert (you pressed q);
 }
 {
-	! is userInput q
+	(! is userInput q)
 }
 
 var Enteroption
 
-enterOption = prompt ("Choose 1 to scream choose 10 to skip"+ count >=1 )
 
-if (enterOption >1 then 1>=10}
+ var EnterOption (Prompt "the user user wants to shout choose 10 if they want to skip choose 1" >=1 )
 
-	console.log (enterOption);
+ 
+ (enterOption >1 then 1>=10
+
+	console.log (EnterOption);
  }
- Enteroption= prompt (" Choose if user wants to use + ")
+ Enteroption= prompt ("Ask user if they wants to use addition");
 
  if (user chooses a then ask them to enter a number )
 
-]console.log ( enter <=2)
+]console.log ( enter <=2);
 
 ]
 
 
 //Phase 2
 
-var client 
+for (var x=0); x<16 x++ 
+	var client
+var = prompt (client to count >=2)
 
-client = ( )
+   if client counts >=2 [
+   	] 
+
+   	console.log (enter a nunmber);
+   	[
+var client prompt (count 1-10 =====2)
+
+   	if user chooses to use - then choose s[
+   	{
+
+   		]
+var client prompt ( "Enter 2 numbers")
+
+[
+console.log ( show - difference of numbers entered);
+]
+
+
+//Challenge 
+
+var n = 10
+while (n>0)[
+
+] if n===5)[
+
+console.log (error);
+] 
+
+else 
+console.log (n);
+}
+
