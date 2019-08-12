@@ -1,3 +1,7 @@
+Please review all the core concepts and revisit this. Code would not run.
+There was no picture of your psuedo code.
+
+
 # javaScript-earlybasic-weekly
 
 ## Weekly Project (Total 10 points)
